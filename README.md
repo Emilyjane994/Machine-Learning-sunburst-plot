@@ -23,3 +23,5 @@ Contribute:
 
 Feel free to contribute additional ML methods or improvements to the plot by submitting pull requests.
 We hope this visualization enhances your understanding of the diverse ML landscape covered in this repository. Happy exploring!
+
+[![DOI](https://zenodo.org/badge/642671766.svg)](https://zenodo.org/doi/10.5281/zenodo.10445876)
